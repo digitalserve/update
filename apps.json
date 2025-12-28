@@ -1,3 +1,14 @@
 {
-  "apps": []
+  "apps": [
+    {
+      "id": "userapps",
+      "versionCode": 103,
+      "versionName": "1.0.3",
+      "apkUrl": "https://raw.githubusercontent.com/digitalserve/update/main/apks/userApps_v1.0.2.apk",
+      "forceUpdate": true,
+      "changelog": [
+        "Ui change "
+      ]
+    }
+  ]
 }
