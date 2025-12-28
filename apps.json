@@ -1,3 +1,4 @@
+
 {
   "apps": [
     {
@@ -5,9 +6,7 @@
       "name": "User Apps",
       "versionCode": 102,
       "versionName": "1.0.2",
-      "apkUrl": "https://github.com/digitalserve/update/raw/main/apks/userApps_v1.0.2.apk",
-      "icon": "https://github.com/digitalserve/update/raw/main/icons/userApps_v1.0.2.jpg",
-      "forceUpdate": false,
+      "apkUrl": "https://github.com/digitalserve/update/blob/main/apks/userApps_v1.0.2.apk?raw=true",
       "changelog": [
         "Bug fixes",
         "Performance improved"
