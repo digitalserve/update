@@ -1,0 +1,10 @@
+{
+  "latestVersionName": "1.0.3",
+  "latestVersionCode": 103,
+  "apkUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/pipeline-app-update/main/PipeLine_ER_P_v1.0.3.apk",
+  "changelog": [
+    "New features added",
+    "Performance improved",
+    "Bug fixes"
+  ]
+}
